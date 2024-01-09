@@ -16,6 +16,7 @@ Almost all elements on an HTML page are just pieces of content wrapped in openin
 Opening tags tell the browser this is the start of an HTML element. They are comprised of a keyword enclosed in angle brackets `<>`. For example, an opening paragraph tag looks like this: `<p>`.
 
 Closing tags tell the browser where an element ends. They are almost the same as opening tags; the only difference is that they have a forward slash before the keyword. For example, a closing paragraph tag looks like this: `</p>`.
+Wichtig ist immer Marcelo die Tastatur und Maus zu übergeben wenn er dir etwas zeigen will.
 
 A full paragraph element looks like this:
 
